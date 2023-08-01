@@ -1,0 +1,2663 @@
+[
+  {
+    "apiUrl": "https://api.github.com/repos/temyers/slack-private-channel-migration",
+    "stargazerCount": 0,
+    "subscribersCount": 0,
+    "contributorsCount": 1,
+    "commitsCount": 3,
+    "language": "JavaScript",
+    "description": "Slack Private Channel Migration",
+    "topics": [],
+    "updatedAt": "2020-02-18T03:23:03Z",
+    "pushedAt": "2017-11-23T07:21:15Z",
+    "createdAt": "2017-11-17T01:00:05Z",
+    "archived": true,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/temyers/slack-private-channel-migration/blob/a159e17ffb34d7a4da5aac8c5b27f9dc6ff52dd1/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs6.10",
+      "url": "https://api.github.com/repositories/111040046/contents/serverless.yml?ref=a159e17ffb34d7a4da5aac8c5b27f9dc6ff52dd1",
+      "downloadUrl": "https://raw.githubusercontent.com/temyers/slack-private-channel-migration/a159e17ffb34d7a4da5aac8c5b27f9dc6ff52dd1/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/ioanatatu/portfolio-aws-backend",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 42,
+    "language": "JavaScript",
+    "description": "The server-side of my portfolio project, where keep information about my projects and log what I am working on every day. ",
+    "topics": [
+      "aws-dynamodb",
+      "aws-lambda",
+      "aws-s3",
+      "hooks",
+      "nodejs",
+      "reactjs",
+      "serverless-framework",
+      "yaml",
+      "yaml-configuration"
+    ],
+    "updatedAt": "2021-01-07T13:37:26Z",
+    "pushedAt": "2021-01-07T13:37:23Z",
+    "createdAt": "2020-12-17T19:59:15Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/ioanatatu/portfolio-aws-backend/blob/869674da95f4a667e7d1cc117a62ddba58e85545/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/322399711/contents/serverless.yml?ref=869674da95f4a667e7d1cc117a62ddba58e85545",
+      "downloadUrl": "https://raw.githubusercontent.com/ioanatatu/portfolio-aws-backend/869674da95f4a667e7d1cc117a62ddba58e85545/serverless.yml",
+      "plugins": [
+        "serverless-s3-sync",
+        "serverless-webpack"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/vikaskulkarni/skuManager",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 4,
+    "language": "JavaScript",
+    "description": "Management of skus",
+    "topics": [],
+    "updatedAt": "2019-04-02T14:28:55Z",
+    "pushedAt": "2019-04-02T14:28:53Z",
+    "createdAt": "2019-03-30T04:37:40Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/vikaskulkarni/skuManager/blob/1c996f6f7547c85e39206126c5c574bc71b9e20d/app-api/patientInfo/serverless.yml",
+      "name": "serverless.yml",
+      "path": "app-api/patientInfo/serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/178511875/contents/app-api/patientInfo/serverless.yml?ref=1c996f6f7547c85e39206126c5c574bc71b9e20d",
+      "downloadUrl": "https://raw.githubusercontent.com/vikaskulkarni/skuManager/1c996f6f7547c85e39206126c5c574bc71b9e20d/app-api/patientInfo/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/vikaskulkarni/skuManager",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 4,
+    "language": "JavaScript",
+    "description": "Management of skus",
+    "topics": [],
+    "updatedAt": "2019-04-02T14:28:55Z",
+    "pushedAt": "2019-04-02T14:28:53Z",
+    "createdAt": "2019-03-30T04:37:40Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/vikaskulkarni/skuManager/blob/1c996f6f7547c85e39206126c5c574bc71b9e20d/app-api/serverless.yml",
+      "name": "serverless.yml",
+      "path": "app-api/serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/178511875/contents/app-api/serverless.yml?ref=1c996f6f7547c85e39206126c5c574bc71b9e20d",
+      "downloadUrl": "https://raw.githubusercontent.com/vikaskulkarni/skuManager/1c996f6f7547c85e39206126c5c574bc71b9e20d/app-api/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/vikaskulkarni/skuManager",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 4,
+    "language": "JavaScript",
+    "description": "Management of skus",
+    "topics": [],
+    "updatedAt": "2019-04-02T14:28:55Z",
+    "pushedAt": "2019-04-02T14:28:53Z",
+    "createdAt": "2019-03-30T04:37:40Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/vikaskulkarni/skuManager/blob/1c996f6f7547c85e39206126c5c574bc71b9e20d/app-api/serverlessOrig.yml",
+      "name": "serverlessOrig.yml",
+      "path": "app-api/serverlessOrig.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/178511875/contents/app-api/serverlessOrig.yml?ref=1c996f6f7547c85e39206126c5c574bc71b9e20d",
+      "downloadUrl": "https://raw.githubusercontent.com/vikaskulkarni/skuManager/1c996f6f7547c85e39206126c5c574bc71b9e20d/app-api/serverlessOrig.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/Raaz1017/shop-rs-be",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 14,
+    "language": "TypeScript",
+    "description": "Backend repository for RS AWS Cource",
+    "topics": [],
+    "updatedAt": "2022-06-25T09:20:10Z",
+    "pushedAt": "2022-07-31T16:24:14Z",
+    "createdAt": "2022-06-11T20:29:00Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/Raaz1017/shop-rs-be/blob/8709808294cf28bf3a43ae7e3d51cedc334e46e2/product-service/serverless.yml",
+      "name": "serverless.yml",
+      "path": "product-service/serverless.yml",
+      "runtime": "nodejs14.x",
+      "serverlessVersion": "3",
+      "url": "https://api.github.com/repositories/502449721/contents/product-service/serverless.yml?ref=8709808294cf28bf3a43ae7e3d51cedc334e46e2",
+      "downloadUrl": "https://raw.githubusercontent.com/Raaz1017/shop-rs-be/8709808294cf28bf3a43ae7e3d51cedc334e46e2/product-service/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/hupe1980/serverless-todo",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 4,
+    "language": "TypeScript",
+    "description": "serverless todo app",
+    "topics": [
+      "cloud-developer",
+      "nanodegree",
+      "serverless",
+      "udacity"
+    ],
+    "updatedAt": "2019-08-07T08:59:51Z",
+    "pushedAt": "2019-08-06T22:12:42Z",
+    "createdAt": "2019-08-03T17:22:15Z",
+    "archived": true,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/hupe1980/serverless-todo/blob/9b8f0b28d0ff209c70232f64975c25ec1f354b13/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/200402424/contents/backend/serverless.yml?ref=9b8f0b28d0ff209c70232f64975c25ec1f354b13",
+      "downloadUrl": "https://raw.githubusercontent.com/hupe1980/serverless-todo/9b8f0b28d0ff209c70232f64975c25ec1f354b13/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation",
+        "serverless-iam-roles-per-function",
+        "serverless-s3-local",
+        "serverless-dynamodb-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/rickyalex/luggage-teleport-api",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 2,
+    "commitsCount": 30,
+    "language": "JavaScript",
+    "description": "Luggage Teleport's API scripts. Written in Node.js",
+    "topics": [],
+    "updatedAt": "2018-05-09T03:03:05Z",
+    "pushedAt": "2018-05-09T03:03:03Z",
+    "createdAt": "2017-12-30T18:08:46Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/rickyalex/luggage-teleport-api/blob/d8252bfc5c933724496a721258e74f9ec4a290d4/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs6.10",
+      "url": "https://api.github.com/repositories/115814044/contents/serverless.yml?ref=d8252bfc5c933724496a721258e74f9ec4a290d4",
+      "downloadUrl": "https://raw.githubusercontent.com/rickyalex/luggage-teleport-api/d8252bfc5c933724496a721258e74f9ec4a290d4/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/ralf-r-r/workout_log",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 33,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-11-04T06:56:54Z",
+    "pushedAt": "2020-11-04T06:56:52Z",
+    "createdAt": "2020-11-02T15:22:53Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/ralf-r-r/workout_log/blob/0f9338a35d4f4a5c8fda906e6f46cba9d6776f4f/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/309410806/contents/backend/serverless.yml?ref=0f9338a35d4f4a5c8fda906e6f46cba9d6776f4f",
+      "downloadUrl": "https://raw.githubusercontent.com/ralf-r-r/workout_log/0f9338a35d4f4a5c8fda906e6f46cba9d6776f4f/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-reqvalidator-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/mneedham/classmarker-integration",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 2,
+    "commitsCount": 18,
+    "language": "HTML",
+    "topics": [],
+    "updatedAt": "2017-11-20T18:32:12Z",
+    "pushedAt": "2021-06-01T21:58:47Z",
+    "createdAt": "2017-07-31T16:10:09Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/mneedham/classmarker-integration/blob/31ca7a8e615e9fa9e3bdb48fe24642d342c14da6/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "python3.6",
+      "serverlessVersion": ">=1.2.0 <2.0.0",
+      "url": "https://api.github.com/repositories/98907792/contents/serverless.yml?ref=31ca7a8e615e9fa9e3bdb48fe24642d342c14da6",
+      "downloadUrl": "https://raw.githubusercontent.com/mneedham/classmarker-integration/31ca7a8e615e9fa9e3bdb48fe24642d342c14da6/serverless.yml",
+      "plugins": [
+        "serverless-python-requirements"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/mtwsynerzip/serverless-stack-api",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 2,
+    "commitsCount": 17,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-09-04T13:47:10Z",
+    "pushedAt": "2022-11-12T23:31:00Z",
+    "createdAt": "2020-01-10T01:10:47Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/mtwsynerzip/serverless-stack-api/blob/fb822c2f6a540ebc8d45a5dd9f013c7620b33d3c/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/232937588/contents/serverless.yml?ref=fb822c2f6a540ebc8d45a5dd9f013c7620b33d3c",
+      "downloadUrl": "https://raw.githubusercontent.com/mtwsynerzip/serverless-stack-api/fb822c2f6a540ebc8d45a5dd9f013c7620b33d3c/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/pblobp/serverless-test",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 5,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2019-08-08T20:13:58Z",
+    "pushedAt": "2019-03-31T20:48:20Z",
+    "createdAt": "2019-03-29T14:12:11Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/pblobp/serverless-test/blob/92bf5e0c0b5fef7be720bac90e231b0f37b4d557/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/178417846/contents/serverless.yml?ref=92bf5e0c0b5fef7be720bac90e231b0f37b4d557",
+      "downloadUrl": "https://raw.githubusercontent.com/pblobp/serverless-test/92bf5e0c0b5fef7be720bac90e231b0f37b4d557/serverless.yml",
+      "plugins": [
+        "serverless-apigw-binary",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/meetr73/serverless-macros",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2019-10-21T15:30:55Z",
+    "pushedAt": "2022-11-12T17:45:11Z",
+    "createdAt": "2019-10-21T15:29:13Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/meetr73/serverless-macros/blob/fc537b476355a90ff6e26d71b720baacf709a4ab/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/216602446/contents/backend/serverless.yml?ref=fc537b476355a90ff6e26d71b720baacf709a4ab",
+      "downloadUrl": "https://raw.githubusercontent.com/meetr73/serverless-macros/fc537b476355a90ff6e26d71b720baacf709a4ab/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/a7kamy/TodoList-AWS-Serverless-Lambda-Functions-Api-Gateway-DynamoDB-",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 6,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2021-03-26T21:20:55Z",
+    "pushedAt": "2021-01-30T18:33:28Z",
+    "createdAt": "2021-01-30T15:47:51Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/a7kamy/TodoList-AWS-Serverless-Lambda-Functions-Api-Gateway-DynamoDB-/blob/bbc929c5774d8d4fb9ad0410a7c97b1536fb00e1/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/334449577/contents/backend/serverless.yml?ref=bbc929c5774d8d4fb9ad0410a7c97b1536fb00e1",
+      "downloadUrl": "https://raw.githubusercontent.com/a7kamy/TodoList-AWS-Serverless-Lambda-Functions-Api-Gateway-DynamoDB-/bbc929c5774d8d4fb9ad0410a7c97b1536fb00e1/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-plugin-tracing",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/Arunbalaji-Srinivasan/cloud-nanodegree-capstone",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "TypeScript",
+    "description": "cloud-nanodegree-capstone",
+    "topics": [],
+    "updatedAt": "2020-07-07T22:54:43Z",
+    "pushedAt": "2022-11-19T14:50:28Z",
+    "createdAt": "2020-07-07T20:03:53Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/Arunbalaji-Srinivasan/cloud-nanodegree-capstone/blob/369ce27eeeccb6dd7c598d4f77b6d8c9b4186ecf/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/277911090/contents/backend/serverless.yml?ref=369ce27eeeccb6dd7c598d4f77b6d8c9b4186ecf",
+      "downloadUrl": "https://raw.githubusercontent.com/Arunbalaji-Srinivasan/cloud-nanodegree-capstone/369ce27eeeccb6dd7c598d4f77b6d8c9b4186ecf/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-aws-documentation",
+        "serverless-reqvalidator-plugin",
+        "serverless-plugin-canary-deployments",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/law-pal/expense-serverless",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 11,
+    "language": "TypeScript",
+    "description": "Serverless expense application using AWS Lambda",
+    "topics": [
+      "aws",
+      "aws-lambda",
+      "nodejs",
+      "react",
+      "serverless",
+      "typescript",
+      "yaml-configuration"
+    ],
+    "updatedAt": "2021-05-01T15:53:44Z",
+    "pushedAt": "2021-03-24T19:24:42Z",
+    "createdAt": "2021-03-20T04:12:03Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/law-pal/expense-serverless/blob/9a5f3c19eb0c80cdf603fd0b5e3b34e47531d429/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/349623929/contents/backend/serverless.yml?ref=9a5f3c19eb0c80cdf603fd0b5e3b34e47531d429",
+      "downloadUrl": "https://raw.githubusercontent.com/law-pal/expense-serverless/9a5f3c19eb0c80cdf603fd0b5e3b34e47531d429/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-dynamodb-local",
+        "serverless-offline",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/v-studios/serverless-stepfunctions",
+    "stargazerCount": 0,
+    "subscribersCount": 7,
+    "contributorsCount": 2,
+    "commitsCount": 59,
+    "language": "Python",
+    "description": "Recreate the AWS Step Functions example with the Serverless Framework and Python",
+    "topics": [],
+    "updatedAt": "2019-08-23T10:27:45Z",
+    "pushedAt": "2022-09-30T01:44:18Z",
+    "createdAt": "2019-06-18T10:27:33Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/v-studios/serverless-stepfunctions/blob/2c81790b49b37f3acc85baaeade189ea1ce41876/chris-callback/serverless.yml",
+      "name": "serverless.yml",
+      "path": "chris-callback/serverless.yml",
+      "runtime": "python3.7",
+      "url": "https://api.github.com/repositories/192518136/contents/chris-callback/serverless.yml?ref=2c81790b49b37f3acc85baaeade189ea1ce41876",
+      "downloadUrl": "https://raw.githubusercontent.com/v-studios/serverless-stepfunctions/2c81790b49b37f3acc85baaeade189ea1ce41876/chris-callback/serverless.yml",
+      "plugins": [
+        "serverless-pseudo-parameters",
+        "serverless-step-functions"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/CityOfZion/neo3-explorer-api",
+    "stargazerCount": 1,
+    "subscribersCount": 7,
+    "contributorsCount": 0,
+    "commitsCount": 1,
+    "language": "Python",
+    "description": "REST API for the Neo3 block explorer",
+    "topics": [],
+    "updatedAt": "2021-12-02T10:43:19Z",
+    "pushedAt": "2019-11-01T17:14:43Z",
+    "createdAt": "2019-11-01T17:12:42Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/CityOfZion/neo3-explorer-api/blob/902f45ac093019088fe030cbe6031272c7a0a6fa/serverless-initial.yml",
+      "name": "serverless-initial.yml",
+      "path": "serverless-initial.yml",
+      "runtime": "python3.7",
+      "serverlessVersion": ">=1.1.0 <2.0.0",
+      "url": "https://api.github.com/repositories/219029612/contents/serverless-initial.yml?ref=902f45ac093019088fe030cbe6031272c7a0a6fa",
+      "downloadUrl": "https://raw.githubusercontent.com/CityOfZion/neo3-explorer-api/902f45ac093019088fe030cbe6031272c7a0a6fa/serverless-initial.yml",
+      "plugins": [
+        "serverless-python-requirements"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/CityOfZion/neo3-explorer-api",
+    "stargazerCount": 1,
+    "subscribersCount": 7,
+    "contributorsCount": 0,
+    "commitsCount": 1,
+    "language": "Python",
+    "description": "REST API for the Neo3 block explorer",
+    "topics": [],
+    "updatedAt": "2021-12-02T10:43:19Z",
+    "pushedAt": "2019-11-01T17:14:43Z",
+    "createdAt": "2019-11-01T17:12:42Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/CityOfZion/neo3-explorer-api/blob/902f45ac093019088fe030cbe6031272c7a0a6fa/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "python3.7",
+      "serverlessVersion": ">=1.1.0 <2.0.0",
+      "url": "https://api.github.com/repositories/219029612/contents/serverless.yml?ref=902f45ac093019088fe030cbe6031272c7a0a6fa",
+      "downloadUrl": "https://raw.githubusercontent.com/CityOfZion/neo3-explorer-api/902f45ac093019088fe030cbe6031272c7a0a6fa/serverless.yml",
+      "plugins": [
+        "serverless-python-requirements",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/domagojk/beenion",
+    "stargazerCount": 254,
+    "subscribersCount": 22,
+    "contributorsCount": 3,
+    "commitsCount": 150,
+    "language": "TypeScript",
+    "description": "Example project using Event Sorucing and CQRS patterns",
+    "topics": [],
+    "updatedAt": "2022-11-30T23:09:13Z",
+    "pushedAt": "2020-06-15T15:35:38Z",
+    "createdAt": "2017-06-29T12:04:56Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/domagojk/beenion/blob/7aea81b44dc2ceaa605245d8ded0ff75f9c2cdd3/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "serverlessVersion": ">=1.46.1",
+      "url": "https://api.github.com/repositories/95773440/contents/serverless.yml?ref=7aea81b44dc2ceaa605245d8ded0ff75f9c2cdd3",
+      "downloadUrl": "https://raw.githubusercontent.com/domagojk/beenion/7aea81b44dc2ceaa605245d8ded0ff75f9c2cdd3/serverless.yml",
+      "plugins": [
+        "serverless-plugin-typescript",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/mundodehads/node-study",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "JavaScript",
+    "description": "My study repository for node",
+    "topics": [],
+    "updatedAt": "2021-06-09T21:50:19Z",
+    "pushedAt": "2021-06-09T21:50:15Z",
+    "createdAt": "2019-11-04T18:45:25Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/mundodehads/node-study/blob/37020a970259400ab1f0e3c627506e099ec87e2f/ts-serverless-crud/stepfunctions/serverless.yml",
+      "name": "serverless.yml",
+      "path": "ts-serverless-crud/stepfunctions/serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/219572301/contents/ts-serverless-crud/stepfunctions/serverless.yml?ref=37020a970259400ab1f0e3c627506e099ec87e2f",
+      "downloadUrl": "https://raw.githubusercontent.com/mundodehads/node-study/37020a970259400ab1f0e3c627506e099ec87e2f/ts-serverless-crud/stepfunctions/serverless.yml",
+      "plugins": [
+        "serverless-step-functions",
+        "serverless-pseudo-parameters"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/carlos4ndre/xadrez",
+    "stargazerCount": 1,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 105,
+    "language": "TypeScript",
+    "description": "Simple chess application written in Python using Auth0, AWS API Gateway, Lambda and DynamoDB",
+    "topics": [],
+    "updatedAt": "2021-05-08T21:42:00Z",
+    "pushedAt": "2022-11-19T04:51:08Z",
+    "createdAt": "2019-11-16T21:42:10Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/carlos4ndre/xadrez/blob/541426c78bf2a80a1d8a463eeacd94aeb333b8a6/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "python3.7",
+      "serverlessVersion": "2",
+      "url": "https://api.github.com/repositories/222162846/contents/backend/serverless.yml?ref=541426c78bf2a80a1d8a463eeacd94aeb333b8a6",
+      "downloadUrl": "https://raw.githubusercontent.com/carlos4ndre/xadrez/541426c78bf2a80a1d8a463eeacd94aeb333b8a6/backend/serverless.yml",
+      "plugins": [
+        "serverless-python-requirements",
+        "serverless-dynamodb-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/merapar/iot-meetup",
+    "stargazerCount": 0,
+    "subscribersCount": 5,
+    "contributorsCount": 2,
+    "commitsCount": 20,
+    "language": "Python",
+    "description": "Repository containing all files used in the hands-on IoT meetup",
+    "topics": [],
+    "updatedAt": "2020-07-06T18:57:26Z",
+    "pushedAt": "2020-06-16T12:12:05Z",
+    "createdAt": "2020-04-17T11:21:23Z",
+    "archived": true,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/merapar/iot-meetup/blob/9abddb2b43c005324ad4f617663256697bee0c3c/ChatApp/aws-iot-chat-example/api/serverless.yml",
+      "name": "serverless.yml",
+      "path": "ChatApp/aws-iot-chat-example/api/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/256482891/contents/ChatApp/aws-iot-chat-example/api/serverless.yml?ref=9abddb2b43c005324ad4f617663256697bee0c3c",
+      "downloadUrl": "https://raw.githubusercontent.com/merapar/iot-meetup/9abddb2b43c005324ad4f617663256697bee0c3c/ChatApp/aws-iot-chat-example/api/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-hooks-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/oneilldjeremy/Backyard-Games-Serverless",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "TypeScript",
+    "description": "A serverless version of the Backyard Games backend",
+    "topics": [],
+    "updatedAt": "2021-09-03T13:40:47Z",
+    "pushedAt": "2021-09-03T13:40:43Z",
+    "createdAt": "2021-09-02T15:45:33Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/oneilldjeremy/Backyard-Games-Serverless/blob/102fb07c522b1cbfb807d6d6931e193d72557ea6/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/402476953/contents/serverless.yml?ref=102fb07c522b1cbfb807d6d6931e193d72557ea6",
+      "downloadUrl": "https://raw.githubusercontent.com/oneilldjeremy/Backyard-Games-Serverless/102fb07c522b1cbfb807d6d6931e193d72557ea6/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-plugin-tracing"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/srlars/aws-serverless-foster-cats",
+    "stargazerCount": 1,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 21,
+    "language": "TypeScript",
+    "description": "AWS Lambda and Serverless Framework Application Managed via CloudFormation",
+    "topics": [],
+    "updatedAt": "2020-04-21T16:10:24Z",
+    "pushedAt": "2022-11-13T04:43:21Z",
+    "createdAt": "2020-04-08T18:53:30Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/srlars/aws-serverless-foster-cats/blob/17d3d90cea1c3d187f4b4a598783daf85bd672a9/service/serverless.yml",
+      "name": "serverless.yml",
+      "path": "service/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/254174074/contents/service/serverless.yml?ref=17d3d90cea1c3d187f4b4a598783daf85bd672a9",
+      "downloadUrl": "https://raw.githubusercontent.com/srlars/aws-serverless-foster-cats/17d3d90cea1c3d187f4b4a598783daf85bd672a9/service/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-aws-documentation"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/cpollard0/AWS-AutoTag",
+    "stargazerCount": 8,
+    "subscribersCount": 1,
+    "contributorsCount": 2,
+    "commitsCount": 12,
+    "language": "Python",
+    "description": "Leveraging new AWS ResourceTaggingAPI to build a generic auto-tagger",
+    "topics": [],
+    "updatedAt": "2020-02-26T03:18:05Z",
+    "pushedAt": "2017-05-06T00:37:59Z",
+    "createdAt": "2017-04-06T15:09:51Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/cpollard0/AWS-AutoTag/blob/b8ba2d0c68aad53c701b35d3e8b7c145e64e319a/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "python2.7",
+      "url": "https://api.github.com/repositories/87443193/contents/serverless.yml?ref=b8ba2d0c68aad53c701b35d3e8b7c145e64e319a",
+      "downloadUrl": "https://raw.githubusercontent.com/cpollard0/AWS-AutoTag/b8ba2d0c68aad53c701b35d3e8b7c145e64e319a/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/sebastianKazmierski/lambdyAWS",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 7,
+    "language": "Java",
+    "topics": [],
+    "updatedAt": "2020-01-18T15:04:05Z",
+    "pushedAt": "2022-11-16T08:57:50Z",
+    "createdAt": "2020-01-17T16:35:19Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/sebastianKazmierski/lambdyAWS/blob/e1678004321a596f92e11682a2bb2e6f9357d8c7/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "java11",
+      "url": "https://api.github.com/repositories/234590574/contents/serverless.yml?ref=e1678004321a596f92e11682a2bb2e6f9357d8c7",
+      "downloadUrl": "https://raw.githubusercontent.com/sebastianKazmierski/lambdyAWS/e1678004321a596f92e11682a2bb2e6f9357d8c7/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/michaelruocco/idv-serverless",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 2,
+    "commitsCount": 288,
+    "language": "Java",
+    "description": "My own IDV platform implementation",
+    "topics": [],
+    "updatedAt": "2020-04-13T08:03:31Z",
+    "pushedAt": "2022-11-12T06:07:27Z",
+    "createdAt": "2019-02-23T10:04:24Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/michaelruocco/idv-serverless/blob/7012a11142feee51cc89961c1f251e41dced402c/plugins/uk/uk-aws-lambda/serverless.yml",
+      "name": "serverless.yml",
+      "path": "plugins/uk/uk-aws-lambda/serverless.yml",
+      "runtime": "java8",
+      "url": "https://api.github.com/repositories/172199037/contents/plugins/uk/uk-aws-lambda/serverless.yml?ref=7012a11142feee51cc89961c1f251e41dced402c",
+      "downloadUrl": "https://raw.githubusercontent.com/michaelruocco/idv-serverless/7012a11142feee51cc89961c1f251e41dced402c/plugins/uk/uk-aws-lambda/serverless.yml",
+      "plugins": [
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/josemasa13/journaling_serverless_app",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 2,
+    "commitsCount": 18,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-05-27T19:40:17Z",
+    "pushedAt": "2022-11-19T13:59:30Z",
+    "createdAt": "2020-05-27T14:04:19Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/josemasa13/journaling_serverless_app/blob/d0242044544dfdf6928da72d1db3cdafe4214bd8/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/267335354/contents/backend/serverless.yml?ref=d0242044544dfdf6928da72d1db3cdafe4214bd8",
+      "downloadUrl": "https://raw.githubusercontent.com/josemasa13/journaling_serverless_app/d0242044544dfdf6928da72d1db3cdafe4214bd8/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/garethmcc/troubleshootapis",
+    "stargazerCount": 1,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 17,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-10-09T06:18:59Z",
+    "pushedAt": "2022-02-11T01:24:02Z",
+    "createdAt": "2020-02-05T13:09:01Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/garethmcc/troubleshootapis/blob/1b768f0b44424f79ec2da1679b3c783fcc3b0252/user-service/serverless.yml",
+      "name": "serverless.yml",
+      "path": "user-service/serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/238452872/contents/user-service/serverless.yml?ref=1b768f0b44424f79ec2da1679b3c783fcc3b0252",
+      "downloadUrl": "https://raw.githubusercontent.com/garethmcc/troubleshootapis/1b768f0b44424f79ec2da1679b3c783fcc3b0252/user-service/serverless.yml",
+      "plugins": [
+        "serverless-tag-api-gateway",
+        "serverless-iam-roles-per-function",
+        "serverless-pseudo-parameters",
+        "serverless-mocha-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/nosvalds/learning-serverless-AWS",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 11,
+    "language": "JavaScript",
+    "description": "Following Complete Coding's series on the serverless framework with AWS",
+    "topics": [],
+    "updatedAt": "2020-08-24T16:12:20Z",
+    "pushedAt": "2020-11-22T20:40:21Z",
+    "createdAt": "2020-08-14T12:05:19Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/nosvalds/learning-serverless-AWS/blob/525916676bd05a5cc8db65796bd9d080ad2d8fef/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/287523567/contents/serverless.yml?ref=525916676bd05a5cc8db65796bd9d080ad2d8fef",
+      "downloadUrl": "https://raw.githubusercontent.com/nosvalds/learning-serverless-AWS/525916676bd05a5cc8db65796bd9d080ad2d8fef/serverless.yml",
+      "plugins": [
+        "serverless-s3-sync",
+        "serverless-webpack"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/kraiovsky/hawaii.js",
+    "stargazerCount": 1,
+    "subscribersCount": 0,
+    "contributorsCount": 2,
+    "commitsCount": 128,
+    "language": "JavaScript",
+    "description": "Koa2 and Next.js full-stack, serverless-ready, monorepo boilerplate",
+    "topics": [],
+    "updatedAt": "2019-10-01T19:43:06Z",
+    "pushedAt": "2022-09-08T08:21:15Z",
+    "createdAt": "2019-02-04T07:29:30Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/kraiovsky/hawaii.js/blob/4548c3433753640144f74576c9e0c54afdbce934/functions/auth/serverless.yml",
+      "name": "serverless.yml",
+      "path": "functions/auth/serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/169042079/contents/functions/auth/serverless.yml?ref=4548c3433753640144f74576c9e0c54afdbce934",
+      "downloadUrl": "https://raw.githubusercontent.com/kraiovsky/hawaii.js/4548c3433753640144f74576c9e0c54afdbce934/functions/auth/serverless.yml",
+      "plugins": [
+        "serverless-offline",
+        "serverless-dotenv-plugin",
+        "serverless-env-generator",
+        "serverless-plugin-monorepo"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/IbrahimAweidah/final-project-5",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 24,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-11-11T16:45:39Z",
+    "pushedAt": "2020-11-11T16:45:37Z",
+    "createdAt": "2020-10-25T18:42:48Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/IbrahimAweidah/final-project-5/blob/fcd217529a307e73c671852f7145b0c43e28988a/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/307167768/contents/backend/serverless.yml?ref=fcd217529a307e73c671852f7145b0c43e28988a",
+      "downloadUrl": "https://raw.githubusercontent.com/IbrahimAweidah/final-project-5/fcd217529a307e73c671852f7145b0c43e28988a/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-aws-alias",
+        "serverless-aws-documentation",
+        "serverless-reqvalidator-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/manwaring/serverless-bucket-events",
+    "stargazerCount": 4,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-03-27T15:33:24Z",
+    "pushedAt": "2017-03-07T22:11:52Z",
+    "createdAt": "2017-03-07T21:11:50Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/manwaring/serverless-bucket-events/blob/c8ce59dce4372455978a360979411b87bbc0098a/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs4.3",
+      "url": "https://api.github.com/repositories/84246495/contents/serverless.yml?ref=c8ce59dce4372455978a360979411b87bbc0098a",
+      "downloadUrl": "https://raw.githubusercontent.com/manwaring/serverless-bucket-events/c8ce59dce4372455978a360979411b87bbc0098a/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/hmilien/FindYouBiz",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 16,
+    "language": "TypeScript",
+    "description": "Business directory service",
+    "topics": [],
+    "updatedAt": "2020-07-24T21:32:49Z",
+    "pushedAt": "2022-11-13T23:23:51Z",
+    "createdAt": "2020-06-28T19:36:39Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/hmilien/FindYouBiz/blob/04a1f08702f996ada1006450869ba90fc6488f12/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/275655404/contents/backend/serverless.yml?ref=04a1f08702f996ada1006450869ba90fc6488f12",
+      "downloadUrl": "https://raw.githubusercontent.com/hmilien/FindYouBiz/04a1f08702f996ada1006450869ba90fc6488f12/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-reqvalidator-plugin",
+        "serverless-iam-roles-per-function",
+        "serverless-aws-documentation"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/thomassimko/SeniorProject",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 8,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2021-09-25T23:42:13Z",
+    "pushedAt": "2018-05-31T19:21:24Z",
+    "createdAt": "2017-12-27T17:31:55Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/thomassimko/SeniorProject/blob/1160f4fb3d2458bcffe041e215948811e1285c47/backEnd/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backEnd/serverless.yml",
+      "runtime": "nodejs6.10",
+      "url": "https://api.github.com/repositories/115543403/contents/backEnd/serverless.yml?ref=1160f4fb3d2458bcffe041e215948811e1285c47",
+      "downloadUrl": "https://raw.githubusercontent.com/thomassimko/SeniorProject/1160f4fb3d2458bcffe041e215948811e1285c47/backEnd/serverless.yml",
+      "plugins": [
+        "serverless-plugin-typescript",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/prism-protocol/Prism-node-v1",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 6,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2019-03-29T05:20:22Z",
+    "pushedAt": "2019-03-29T05:20:21Z",
+    "createdAt": "2019-02-21T04:09:11Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/prism-protocol/Prism-node-v1/blob/06863a09a5e1364193458cee07d53fcfb4c7b3df/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/171798182/contents/serverless.yml?ref=06863a09a5e1364193458cee07d53fcfb4c7b3df",
+      "downloadUrl": "https://raw.githubusercontent.com/prism-protocol/Prism-node-v1/06863a09a5e1364193458cee07d53fcfb4c7b3df/serverless.yml",
+      "plugins": [
+        "serverless-plugin-aws-cn-principal"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/petersow/card-api",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 4,
+    "language": "JavaScript",
+    "description": "AWS Lambda implementation of a Card API",
+    "topics": [],
+    "updatedAt": "2016-10-17T15:02:36Z",
+    "pushedAt": "2016-10-17T15:03:27Z",
+    "createdAt": "2016-10-17T14:58:39Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/petersow/card-api/blob/114a7d71eff76210cbbf5be6fae502c8790b5231/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs4.3",
+      "url": "https://api.github.com/repositories/71150171/contents/serverless.yml?ref=114a7d71eff76210cbbf5be6fae502c8790b5231",
+      "downloadUrl": "https://raw.githubusercontent.com/petersow/card-api/114a7d71eff76210cbbf5be6fae502c8790b5231/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/acald-creator/udacity-serverless-todo",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 52,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2022-01-16T01:00:48Z",
+    "pushedAt": "2022-11-16T23:32:39Z",
+    "createdAt": "2020-04-24T21:45:04Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/acald-creator/udacity-serverless-todo/blob/c7d40238ec8157316103146aaa510ceebc2d8412/restapi-serverless/serverless.yml",
+      "name": "serverless.yml",
+      "path": "restapi-serverless/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/258631293/contents/restapi-serverless/serverless.yml?ref=c7d40238ec8157316103146aaa510ceebc2d8412",
+      "downloadUrl": "https://raw.githubusercontent.com/acald-creator/udacity-serverless-todo/c7d40238ec8157316103146aaa510ceebc2d8412/restapi-serverless/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-aws-documentation",
+        "serverless-reqvalidator-plugin",
+        "serverless-iam-roles-per-function",
+        "serverless-plugin-tracing",
+        "serverless-dynamodb-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/josersleal/sstack-notes-api",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 1,
+    "language": "JavaScript",
+    "description": "sstack react aws api",
+    "topics": [],
+    "updatedAt": "2018-05-10T20:36:31Z",
+    "pushedAt": "2018-05-10T20:36:29Z",
+    "createdAt": "2018-05-10T20:35:20Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/josersleal/sstack-notes-api/blob/78e2d7ab6b125a85df6d7bac967b8668b41bc634/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/132951636/contents/serverless.yml?ref=78e2d7ab6b125a85df6d7bac967b8668b41bc634",
+      "downloadUrl": "https://raw.githubusercontent.com/josersleal/sstack-notes-api/78e2d7ab6b125a85df6d7bac967b8668b41bc634/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-offline",
+        "serverless-jest-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/samazadi/irma",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 39,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2021-02-22T05:12:26Z",
+    "pushedAt": "2021-02-22T05:12:24Z",
+    "createdAt": "2021-02-17T03:56:12Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/samazadi/irma/blob/f0d5e98dbae2acacbbe547569211d3b9110486d3/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/339605414/contents/backend/serverless.yml?ref=f0d5e98dbae2acacbbe547569211d3b9110486d3",
+      "downloadUrl": "https://raw.githubusercontent.com/samazadi/irma/f0d5e98dbae2acacbbe547569211d3b9110486d3/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-dynamodb-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/ONSdigital/es-enrichment-sg",
+    "stargazerCount": 0,
+    "subscribersCount": 6,
+    "contributorsCount": 12,
+    "commitsCount": 359,
+    "language": "Python",
+    "topics": [],
+    "updatedAt": "2022-08-23T12:01:37Z",
+    "pushedAt": "2021-06-17T14:28:16Z",
+    "createdAt": "2019-07-15T11:28:00Z",
+    "archived": true,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/ONSdigital/es-enrichment-sg/blob/4ecabff468c8b042be5e8328c7e38e609527fdff/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "python3.7",
+      "url": "https://api.github.com/repositories/196985476/contents/serverless.yml?ref=4ecabff468c8b042be5e8328c7e38e609527fdff",
+      "downloadUrl": "https://raw.githubusercontent.com/ONSdigital/es-enrichment-sg/4ecabff468c8b042be5e8328c7e38e609527fdff/serverless.yml",
+      "plugins": [
+        "serverless-latest-layer-version",
+        "serverless-pseudo-parameters"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/Mostafa44/blog-app",
+    "stargazerCount": 1,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 42,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2022-04-13T07:30:45Z",
+    "pushedAt": "2022-04-13T07:30:41Z",
+    "createdAt": "2021-06-27T02:03:48Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/Mostafa44/blog-app/blob/7241e4fc4963b189bbe1045a41b7aaab0c2aa48c/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/380631291/contents/backend/serverless.yml?ref=7241e4fc4963b189bbe1045a41b7aaab0c2aa48c",
+      "downloadUrl": "https://raw.githubusercontent.com/Mostafa44/blog-app/7241e4fc4963b189bbe1045a41b7aaab0c2aa48c/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-reqvalidator-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/jaskiratvig/golang-restapi-dynamodb-serverless",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 2,
+    "commitsCount": 33,
+    "language": "Go",
+    "description": "This project includes a sample application that uses Amazon DynamoDB to perform CRUD operations with authentication/ authorization via Auth0",
+    "topics": [],
+    "updatedAt": "2020-06-14T03:12:07Z",
+    "pushedAt": "2020-06-14T03:12:05Z",
+    "createdAt": "2020-02-28T15:30:57Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/jaskiratvig/golang-restapi-dynamodb-serverless/blob/a3dbff43d098c6948d5913e697d41d6ee66d7e44/aws-golang-http-get-post/serverless.yml",
+      "name": "serverless.yml",
+      "path": "aws-golang-http-get-post/serverless.yml",
+      "runtime": "go1.x",
+      "serverlessVersion": ">=1.28.0 <2.0.0",
+      "url": "https://api.github.com/repositories/243794269/contents/aws-golang-http-get-post/serverless.yml?ref=a3dbff43d098c6948d5913e697d41d6ee66d7e44",
+      "downloadUrl": "https://raw.githubusercontent.com/jaskiratvig/golang-restapi-dynamodb-serverless/a3dbff43d098c6948d5913e697d41d6ee66d7e44/aws-golang-http-get-post/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/skilfulsidiq/udacity-serverless",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 4,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2022-08-28T09:09:42Z",
+    "pushedAt": "2022-08-29T07:59:26Z",
+    "createdAt": "2022-08-28T07:42:37Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/skilfulsidiq/udacity-serverless/blob/b1f350a452a756e5543283b36a66f508e660cda3/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/529795766/contents/backend/serverless.yml?ref=b1f350a452a756e5543283b36a66f508e660cda3",
+      "downloadUrl": "https://raw.githubusercontent.com/skilfulsidiq/udacity-serverless/b1f350a452a756e5543283b36a66f508e660cda3/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/ChenLi0830/Serverless-Todo",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 8,
+    "language": "JavaScript",
+    "description": "A todo app using serverless framework - AWS Lambda",
+    "topics": [],
+    "updatedAt": "2016-12-08T01:41:02Z",
+    "pushedAt": "2016-12-09T18:54:41Z",
+    "createdAt": "2016-12-07T21:51:50Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/ChenLi0830/Serverless-Todo/blob/1a575715378a6d3e5e95ab4b062756c81b4851be/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs4.3",
+      "url": "https://api.github.com/repositories/75878778/contents/serverless.yml?ref=1a575715378a6d3e5e95ab4b062756c81b4851be",
+      "downloadUrl": "https://raw.githubusercontent.com/ChenLi0830/Serverless-Todo/1a575715378a6d3e5e95ab4b062756c81b4851be/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/we45/pr-step-function-pipeline",
+    "stargazerCount": 0,
+    "subscribersCount": 3,
+    "contributorsCount": 1,
+    "commitsCount": 1,
+    "language": "Python",
+    "description": "AWS Step Function Pipeline for Python SAST and SCA",
+    "topics": [],
+    "updatedAt": "2020-01-15T09:06:57Z",
+    "pushedAt": "2022-09-08T12:04:48Z",
+    "createdAt": "2020-01-15T09:06:46Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/we45/pr-step-function-pipeline/blob/fdcbac2c5d1b1805932b3815427216cc1cd430b7/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "python3.7",
+      "url": "https://api.github.com/repositories/234041328/contents/serverless.yml?ref=fdcbac2c5d1b1805932b3815427216cc1cd430b7",
+      "downloadUrl": "https://raw.githubusercontent.com/we45/pr-step-function-pipeline/fdcbac2c5d1b1805932b3815427216cc1cd430b7/serverless.yml",
+      "plugins": [
+        "serverless-python-requirements",
+        "serverless-step-functions"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/dschep/JUMPStart",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 18,
+    "language": "JavaScript",
+    "description": "âš¡ðŸš²â�° Get a push notification in the morning for the nearest JUMP bike!",
+    "topics": [
+      "bikeshare",
+      "e-bike",
+      "push-notifications"
+    ],
+    "updatedAt": "2018-04-09T21:51:52Z",
+    "pushedAt": "2022-06-24T04:53:05Z",
+    "createdAt": "2018-01-19T00:03:23Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/dschep/JUMPStart/blob/6fae979e2955554045efc71f33aec9b4c6b81dff/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs6.10",
+      "url": "https://api.github.com/repositories/118053308/contents/serverless.yml?ref=6fae979e2955554045efc71f33aec9b4c6b81dff",
+      "downloadUrl": "https://raw.githubusercontent.com/dschep/JUMPStart/6fae979e2955554045efc71f33aec9b4c6b81dff/serverless.yml",
+      "plugins": [
+        "serverless-finch"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/aws-samples/aws-iot-chat-example",
+    "stargazerCount": 526,
+    "subscribersCount": 25,
+    "contributorsCount": 14,
+    "commitsCount": 194,
+    "language": "JavaScript",
+    "description": "ðŸ’¬   Chat application using AWS IoT platform via MQTT over the WebSocket protocol",
+    "topics": [
+      "amazon-cognito",
+      "aws-iot",
+      "aws-lambda",
+      "dynamodb",
+      "mqtt",
+      "react",
+      "redux",
+      "serverless-framework",
+      "websockets"
+    ],
+    "updatedAt": "2022-11-25T12:28:41Z",
+    "pushedAt": "2022-11-24T08:32:57Z",
+    "createdAt": "2017-10-19T19:51:38Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/aws-samples/aws-iot-chat-example/blob/89cada0822d24c6939ff6573e391200057b7e79b/api/serverless.yml",
+      "name": "serverless.yml",
+      "path": "api/serverless.yml",
+      "runtime": "nodejs14.x",
+      "url": "https://api.github.com/repositories/107591574/contents/api/serverless.yml?ref=89cada0822d24c6939ff6573e391200057b7e79b",
+      "downloadUrl": "https://raw.githubusercontent.com/aws-samples/aws-iot-chat-example/89cada0822d24c6939ff6573e391200057b7e79b/api/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-hooks-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/wenceslauslee/sudoku-backend",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 2,
+    "commitsCount": 55,
+    "language": "JavaScript",
+    "description": "A Sudoku website backend Lambda written with NodeJS and exposed via API Gateway",
+    "topics": [],
+    "updatedAt": "2021-09-03T01:32:44Z",
+    "pushedAt": "2022-11-12T10:33:51Z",
+    "createdAt": "2019-03-25T19:24:50Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/wenceslauslee/sudoku-backend/blob/f49cc1a6a234aa0d748e7ab54fca39bd656f17ef/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs8.10",
+      "serverlessVersion": ">=1.1.0 <2.0.0",
+      "url": "https://api.github.com/repositories/177650519/contents/serverless.yml?ref=f49cc1a6a234aa0d748e7ab54fca39bd656f17ef",
+      "downloadUrl": "https://raw.githubusercontent.com/wenceslauslee/sudoku-backend/f49cc1a6a234aa0d748e7ab54fca39bd656f17ef/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/nilseri01/capstone-project",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 24,
+    "language": "TypeScript",
+    "description": "Udacity Serverless Capstone Project",
+    "topics": [
+      "aws",
+      "aws-cloudformation",
+      "aws-dynamodb",
+      "aws-elasticsearch",
+      "aws-lambda",
+      "cloud-development",
+      "nodejs",
+      "react",
+      "serverless",
+      "udacity"
+    ],
+    "updatedAt": "2020-05-20T20:37:17Z",
+    "pushedAt": "2022-11-13T05:38:33Z",
+    "createdAt": "2020-05-18T18:20:40Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/nilseri01/capstone-project/blob/40ab36eaf407fa9d1ce177dfc269d2db1692b640/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/265024538/contents/backend/serverless.yml?ref=40ab36eaf407fa9d1ce177dfc269d2db1692b640",
+      "downloadUrl": "https://raw.githubusercontent.com/nilseri01/capstone-project/40ab36eaf407fa9d1ce177dfc269d2db1692b640/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-aws-documentation",
+        "serverless-reqvalidator-plugin",
+        "serverless-plugin-canary-deployments",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/monddelmundo/serverless-stack-api",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 4,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2019-11-21T10:01:12Z",
+    "pushedAt": "2022-11-12T19:54:54Z",
+    "createdAt": "2019-11-19T12:26:04Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/monddelmundo/serverless-stack-api/blob/fd6164ed990329ff42b6963d0e4f1fa7bfe73329/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/222690499/contents/serverless.yml?ref=fd6164ed990329ff42b6963d0e4f1fa7bfe73329",
+      "downloadUrl": "https://raw.githubusercontent.com/monddelmundo/serverless-stack-api/fd6164ed990329ff42b6963d0e4f1fa7bfe73329/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/RawanAhmed/Serverless-Application-NanoDegree",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 3,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2021-03-22T08:00:55Z",
+    "pushedAt": "2021-03-22T08:00:52Z",
+    "createdAt": "2021-03-20T16:43:13Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/RawanAhmed/Serverless-Application-NanoDegree/blob/2056b5570c2998fb35c9c83d2a785ed2c785ebdc/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/349781510/contents/backend/serverless.yml?ref=2056b5570c2998fb35c9c83d2a785ed2c785ebdc",
+      "downloadUrl": "https://raw.githubusercontent.com/RawanAhmed/Serverless-Application-NanoDegree/2056b5570c2998fb35c9c83d2a785ed2c785ebdc/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/Donnzh/lambda-example-by-different-frameworks",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 9,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2017-01-16T06:38:45Z",
+    "pushedAt": "2017-06-18T14:31:16Z",
+    "createdAt": "2017-01-16T06:23:02Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/Donnzh/lambda-example-by-different-frameworks/blob/db0642ccc56f2e4c479c44aee9d875f46eb4c615/serverless/my-service/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless/my-service/serverless.yml",
+      "runtime": "nodejs4.3",
+      "serverlessVersion": "=1.5.0",
+      "url": "https://api.github.com/repositories/79089004/contents/serverless/my-service/serverless.yml?ref=db0642ccc56f2e4c479c44aee9d875f46eb4c615",
+      "downloadUrl": "https://raw.githubusercontent.com/Donnzh/lambda-example-by-different-frameworks/db0642ccc56f2e4c479c44aee9d875f46eb4c615/serverless/my-service/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/Migu3lR/pasealo-app",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 0,
+    "commitsCount": 2,
+    "language": "JavaScript",
+    "description": "pasealo-app",
+    "topics": [],
+    "updatedAt": "2019-02-04T04:45:13Z",
+    "pushedAt": "2019-02-04T04:45:12Z",
+    "createdAt": "2019-02-04T01:33:22Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/Migu3lR/pasealo-app/blob/08aee19575e3b3f4c065572f41fe28fa3eea4fac/api/serverless.yml",
+      "name": "serverless.yml",
+      "path": "api/serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/169014524/contents/api/serverless.yml?ref=08aee19575e3b3f4c065572f41fe28fa3eea4fac",
+      "downloadUrl": "https://raw.githubusercontent.com/Migu3lR/pasealo-app/08aee19575e3b3f4c065572f41fe28fa3eea4fac/api/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/dan-gaskin/lambda-tracing-comparison",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 15,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-07-08T02:53:09Z",
+    "pushedAt": "2022-11-12T07:14:03Z",
+    "createdAt": "2020-06-11T01:31:50Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/dan-gaskin/lambda-tracing-comparison/blob/4980f736c206fb089bb7710f2688ee40936f22bf/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/271423330/contents/serverless.yml?ref=4980f736c206fb089bb7710f2688ee40936f22bf",
+      "downloadUrl": "https://raw.githubusercontent.com/dan-gaskin/lambda-tracing-comparison/4980f736c206fb089bb7710f2688ee40936f22bf/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-plugin-tracing",
+        "serverless-pseudo-parameters",
+        "serverless-lumigo",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/RobbingDaHood/HappyToHelp",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 35,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2017-07-04T18:29:27Z",
+    "pushedAt": "2017-11-20T18:47:34Z",
+    "createdAt": "2017-06-24T08:06:25Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/RobbingDaHood/HappyToHelp/blob/d88c3ad4a599c4fe1832dce1bbad118d41fc63ef/lambda-backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "lambda-backend/serverless.yml",
+      "runtime": "nodejs8.9",
+      "url": "https://api.github.com/repositories/95284395/contents/lambda-backend/serverless.yml?ref=d88c3ad4a599c4fe1832dce1bbad118d41fc63ef",
+      "downloadUrl": "https://raw.githubusercontent.com/RobbingDaHood/HappyToHelp/d88c3ad4a599c4fe1832dce1bbad118d41fc63ef/lambda-backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-mocha-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/maasglobal/maas-aws-patterns",
+    "stargazerCount": 22,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 62,
+    "description": "This is a collection of backend infrastructure and architecture design patterns that are considered best practices when we do development in MaaS Global.",
+    "topics": [],
+    "updatedAt": "2022-11-16T23:16:44Z",
+    "pushedAt": "2022-01-30T14:57:01Z",
+    "createdAt": "2021-10-19T10:18:23Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/maasglobal/maas-aws-patterns/blob/b0601c363f68f2420a8e6fb702fd501d92bd8e2d/examples/serverless/api-database/serverless.yml",
+      "name": "serverless.yml",
+      "path": "examples/serverless/api-database/serverless.yml",
+      "runtime": "nodejs14.x",
+      "serverlessVersion": "2",
+      "url": "https://api.github.com/repositories/418872384/contents/examples/serverless/api-database/serverless.yml?ref=b0601c363f68f2420a8e6fb702fd501d92bd8e2d",
+      "downloadUrl": "https://raw.githubusercontent.com/maasglobal/maas-aws-patterns/b0601c363f68f2420a8e6fb702fd501d92bd8e2d/examples/serverless/api-database/serverless.yml",
+      "plugins": [
+        "serverless-webpack"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/theburningmonk/lambda-logging-kinesis-demo",
+    "stargazerCount": 30,
+    "subscribersCount": 4,
+    "contributorsCount": 2,
+    "commitsCount": 4,
+    "language": "JavaScript",
+    "description": "Demo of how to ship logs from CloudWatch Logs to a Kinesis stream, and then ship them to Logz.io",
+    "topics": [],
+    "updatedAt": "2022-07-04T02:46:24Z",
+    "pushedAt": "2020-04-17T12:41:27Z",
+    "createdAt": "2018-07-22T18:51:13Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/theburningmonk/lambda-logging-kinesis-demo/blob/cef12110b6604987ced2f52d41938f8dbf9da138/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/141922184/contents/serverless.yml?ref=cef12110b6604987ced2f52d41938f8dbf9da138",
+      "downloadUrl": "https://raw.githubusercontent.com/theburningmonk/lambda-logging-kinesis-demo/cef12110b6604987ced2f52d41938f8dbf9da138/serverless.yml",
+      "plugins": [
+        "serverless-pseudo-parameters",
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/appsdemobharadwaj/apigateway-lambda-dynamodb-cf",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 2,
+    "language": "Java",
+    "topics": [],
+    "updatedAt": "2017-04-11T11:25:20Z",
+    "pushedAt": "2017-04-11T12:25:27Z",
+    "createdAt": "2017-04-11T11:21:05Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/appsdemobharadwaj/apigateway-lambda-dynamodb-cf/blob/7c4203503af11cd2febab0e4ecc4deebbeb2a3ee/serverless-framework/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless-framework/serverless.yml",
+      "url": "https://api.github.com/repositories/87925826/contents/serverless-framework/serverless.yml?ref=7c4203503af11cd2febab0e4ecc4deebbeb2a3ee",
+      "downloadUrl": "https://raw.githubusercontent.com/appsdemobharadwaj/apigateway-lambda-dynamodb-cf/7c4203503af11cd2febab0e4ecc4deebbeb2a3ee/serverless-framework/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/antonioeagomes/serverless-api",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 7,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-10-20T22:41:04Z",
+    "pushedAt": "2020-10-20T22:41:02Z",
+    "createdAt": "2020-10-12T16:54:32Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/antonioeagomes/serverless-api/blob/b7e6bcd0cec487730325d52de8460b7c329bc9b7/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/303456629/contents/serverless.yml?ref=b7e6bcd0cec487730325d52de8460b7c329bc9b7",
+      "downloadUrl": "https://raw.githubusercontent.com/antonioeagomes/serverless-api/b7e6bcd0cec487730325d52de8460b7c329bc9b7/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/kevinbece5/pencaAPI",
+    "stargazerCount": 0,
+    "subscribersCount": 0,
+    "contributorsCount": 1,
+    "commitsCount": 6,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-08-28T23:41:42Z",
+    "pushedAt": "2020-08-28T23:47:48Z",
+    "createdAt": "2019-01-04T04:25:03Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/kevinbece5/pencaAPI/blob/a096d70ad341347f34ab13c0d38cf0dc156af148/api/serverless.yml",
+      "name": "serverless.yml",
+      "path": "api/serverless.yml",
+      "runtime": "nodejs6.10",
+      "url": "https://api.github.com/repositories/164057660/contents/api/serverless.yml?ref=a096d70ad341347f34ab13c0d38cf0dc156af148",
+      "downloadUrl": "https://raw.githubusercontent.com/kevinbece5/pencaAPI/a096d70ad341347f34ab13c0d38cf0dc156af148/api/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/vieraruben/airbnb-clone-api",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 5,
+    "language": "JavaScript",
+    "description": "Airbnb Clone API",
+    "topics": [],
+    "updatedAt": "2020-05-28T00:17:04Z",
+    "pushedAt": "2020-05-28T00:17:02Z",
+    "createdAt": "2020-05-24T18:42:07Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/vieraruben/airbnb-clone-api/blob/ab1bd92e8f10d5b4cadc99c0da77f3bd16903486/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/266603053/contents/serverless.yml?ref=ab1bd92e8f10d5b4cadc99c0da77f3bd16903486",
+      "downloadUrl": "https://raw.githubusercontent.com/vieraruben/airbnb-clone-api/ab1bd92e8f10d5b4cadc99c0da77f3bd16903486/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/ddewzy/serverless-stack-api",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 2,
+    "commitsCount": 12,
+    "language": "Python",
+    "topics": [],
+    "updatedAt": "2020-09-08T15:39:38Z",
+    "pushedAt": "2022-11-13T21:27:47Z",
+    "createdAt": "2020-05-15T18:02:32Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/ddewzy/serverless-stack-api/blob/bc54cfe0057eaf832c0c2a39315d7d6d7a51720b/notes-app-api/serverless.yml",
+      "name": "serverless.yml",
+      "path": "notes-app-api/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/264263929/contents/notes-app-api/serverless.yml?ref=bc54cfe0057eaf832c0c2a39315d7d6d7a51720b",
+      "downloadUrl": "https://raw.githubusercontent.com/ddewzy/serverless-stack-api/bc54cfe0057eaf832c0c2a39315d7d6d7a51720b/notes-app-api/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/microservices-patterns/ftgo-application",
+    "stargazerCount": 2781,
+    "subscribersCount": 184,
+    "contributorsCount": 3,
+    "commitsCount": 295,
+    "language": "Java",
+    "description": "Example code for the book Microservice patterns",
+    "topics": [],
+    "updatedAt": "2022-12-01T20:51:45Z",
+    "pushedAt": "2022-10-06T22:21:06Z",
+    "createdAt": "2017-10-23T04:30:04Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/microservices-patterns/ftgo-application/blob/a835e23bb0f3bc92dd712ff48a1510496ecb10fa/ftgo-restaurant-service-aws-lambda/serverless.yml",
+      "name": "serverless.yml",
+      "path": "ftgo-restaurant-service-aws-lambda/serverless.yml",
+      "runtime": "java8",
+      "url": "https://api.github.com/repositories/107932176/contents/ftgo-restaurant-service-aws-lambda/serverless.yml?ref=a835e23bb0f3bc92dd712ff48a1510496ecb10fa",
+      "downloadUrl": "https://raw.githubusercontent.com/microservices-patterns/ftgo-application/a835e23bb0f3bc92dd712ff48a1510496ecb10fa/ftgo-restaurant-service-aws-lambda/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/Arsen0809/serverless-multi-payment-handler",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2019-08-20T14:20:58Z",
+    "pushedAt": "2022-11-08T04:13:25Z",
+    "createdAt": "2019-08-20T13:22:17Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/Arsen0809/serverless-multi-payment-handler/blob/13d7a8db9bca6cd0c4e7738585cdbd8748264226/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs6.10",
+      "url": "https://api.github.com/repositories/203380947/contents/serverless.yml?ref=13d7a8db9bca6cd0c4e7738585cdbd8748264226",
+      "downloadUrl": "https://raw.githubusercontent.com/Arsen0809/serverless-multi-payment-handler/13d7a8db9bca6cd0c4e7738585cdbd8748264226/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/ioviic/Sereverless.Test",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 43,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-05-05T12:40:20Z",
+    "pushedAt": "2022-11-13T15:52:06Z",
+    "createdAt": "2020-04-16T16:03:47Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/ioviic/Sereverless.Test/blob/1f16c32192a480622ae563456c6a914dace7ab35/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/256264113/contents/serverless.yml?ref=1f16c32192a480622ae563456c6a914dace7ab35",
+      "downloadUrl": "https://raw.githubusercontent.com/ioviic/Sereverless.Test/1f16c32192a480622ae563456c6a914dace7ab35/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/argha-sahu/serverless",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 1,
+    "language": "Python",
+    "topics": [],
+    "updatedAt": "2019-11-07T06:36:55Z",
+    "pushedAt": "2019-11-07T06:36:53Z",
+    "createdAt": "2019-11-07T06:28:31Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/argha-sahu/serverless/blob/c3ab6fe8fc5b925e1bbd96be7e45ef0b21850590/src/serverless.yml",
+      "name": "serverless.yml",
+      "path": "src/serverless.yml",
+      "runtime": "python3.6",
+      "url": "https://api.github.com/repositories/220167010/contents/src/serverless.yml?ref=c3ab6fe8fc5b925e1bbd96be7e45ef0b21850590",
+      "downloadUrl": "https://raw.githubusercontent.com/argha-sahu/serverless/c3ab6fe8fc5b925e1bbd96be7e45ef0b21850590/src/serverless.yml",
+      "plugins": [
+        "serverless-python-requirements"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/ottomagne/serverless-stack-api",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 2,
+    "commitsCount": 9,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2021-04-07T20:42:50Z",
+    "pushedAt": "2022-11-13T23:57:56Z",
+    "createdAt": "2020-08-01T13:09:34Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/ottomagne/serverless-stack-api/blob/71c7bfa6350be1516d66759df4df06e67a0116f9/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/284262178/contents/serverless.yml?ref=71c7bfa6350be1516d66759df4df06e67a0116f9",
+      "downloadUrl": "https://raw.githubusercontent.com/ottomagne/serverless-stack-api/71c7bfa6350be1516d66759df4df06e67a0116f9/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/bzcorn/spikenisis",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "Python",
+    "description": "Kinesis spike to fan out messages from a kinesis queue",
+    "topics": [],
+    "updatedAt": "2019-04-22T19:23:26Z",
+    "pushedAt": "2019-04-22T19:23:24Z",
+    "createdAt": "2019-04-22T19:17:07Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/bzcorn/spikenisis/blob/e3bd051f1e197167f26e1246116501b300d8c650/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "python3.7",
+      "url": "https://api.github.com/repositories/182852410/contents/serverless.yml?ref=e3bd051f1e197167f26e1246116501b300d8c650",
+      "downloadUrl": "https://raw.githubusercontent.com/bzcorn/spikenisis/e3bd051f1e197167f26e1246116501b300d8c650/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/loopDelicious/serverless-todo",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 1,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2016-10-21T07:04:38Z",
+    "pushedAt": "2016-10-21T07:04:37Z",
+    "createdAt": "2016-10-21T05:28:42Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/loopDelicious/serverless-todo/blob/a7aff72ccb29530b3696e96ca9ae7d21a27219b3/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs4.3",
+      "url": "https://api.github.com/repositories/71532806/contents/serverless.yml?ref=a7aff72ccb29530b3696e96ca9ae7d21a27219b3",
+      "downloadUrl": "https://raw.githubusercontent.com/loopDelicious/serverless-todo/a7aff72ccb29530b3696e96ca9ae7d21a27219b3/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/TWEEDOriginal/step-functions-intro",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 2,
+    "language": "JavaScript",
+    "description": "set up and use step functions using serverless.yml",
+    "topics": [],
+    "updatedAt": "2022-03-28T07:44:15Z",
+    "pushedAt": "2022-03-28T07:44:11Z",
+    "createdAt": "2022-03-28T07:42:09Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/TWEEDOriginal/step-functions-intro/blob/bc7241f238d29376fcd8ca2b795bf4acfce3d06b/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+	  "runtime": "nodejs12.x",
+	  "serverlessVersion": "3",
+      "url": "https://api.github.com/repositories/474896586/contents/serverless.yml?ref=bc7241f238d29376fcd8ca2b795bf4acfce3d06b",
+      "downloadUrl": "https://raw.githubusercontent.com/TWEEDOriginal/step-functions-intro/bc7241f238d29376fcd8ca2b795bf4acfce3d06b/serverless.yml",
+      "plugins": [
+        "serverless-step-functions"
+      ]
+	}
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/becelot/ks-db-backend",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 2,
+    "commitsCount": 102,
+    "language": "TypeScript",
+    "description": "Backend implementation using AWS lambda",
+    "topics": [],
+    "updatedAt": "2021-11-17T05:21:40Z",
+    "pushedAt": "2022-11-18T19:51:35Z",
+    "createdAt": "2019-09-07T10:36:07Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/becelot/ks-db-backend/blob/ea1560719c83e3c6505e816382f8886550706f86/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/206952994/contents/serverless.yml?ref=ea1560719c83e3c6505e816382f8886550706f86",
+      "downloadUrl": "https://raw.githubusercontent.com/becelot/ks-db-backend/ea1560719c83e3c6505e816382f8886550706f86/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-dynamodb-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/chauhan0707/cloud-capstone",
+    "stargazerCount": 2,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-10-06T16:13:30Z",
+    "pushedAt": "2020-09-02T17:33:56Z",
+    "createdAt": "2020-09-02T17:32:02Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/chauhan0707/cloud-capstone/blob/bf0b2cca3760e464e75e40baad845425ba40a051/udacity-cloud-developer-capstone-project-master/udacity-cloud-developer-capstone-project-master/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "udacity-cloud-developer-capstone-project-master/udacity-cloud-developer-capstone-project-master/backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/292350118/contents/udacity-cloud-developer-capstone-project-master/udacity-cloud-developer-capstone-project-master/backend/serverless.yml?ref=bf0b2cca3760e464e75e40baad845425ba40a051",
+      "downloadUrl": "https://raw.githubusercontent.com/chauhan0707/cloud-capstone/bf0b2cca3760e464e75e40baad845425ba40a051/udacity-cloud-developer-capstone-project-master/udacity-cloud-developer-capstone-project-master/backend/serverless.yml",
+      "plugins": [
+        "serverless-iam-roles-per-function",
+        "serverless-reqvalidator-plugin",
+        "serverless-webpack",
+        "serverless-aws-documentation",
+        "serverless-dynamodb-local",
+        "serverless-s3-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/javaire/serverless-favorite-books",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 5,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2021-02-01T18:21:59Z",
+    "pushedAt": "2021-02-01T18:21:56Z",
+    "createdAt": "2021-02-01T10:52:38Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/javaire/serverless-favorite-books/blob/e34dbec0161628b28bf6e477a35b331fa8603162/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/334918370/contents/backend/serverless.yml?ref=e34dbec0161628b28bf6e477a35b331fa8603162",
+      "downloadUrl": "https://raw.githubusercontent.com/javaire/serverless-favorite-books/e34dbec0161628b28bf6e477a35b331fa8603162/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/wp1u18/COM6244Individual",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 14,
+    "language": "JavaScript",
+    "description": "AWS",
+    "topics": [],
+    "updatedAt": "2018-11-19T11:12:33Z",
+    "pushedAt": "2018-11-19T11:12:32Z",
+    "createdAt": "2018-11-10T19:39:13Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/wp1u18/COM6244Individual/blob/175bed8c251baedbe9e70760d2b4277a1633b32a/cloud-app-api/serverless.yml",
+      "name": "serverless.yml",
+      "path": "cloud-app-api/serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/157015060/contents/cloud-app-api/serverless.yml?ref=175bed8c251baedbe9e70760d2b4277a1633b32a",
+      "downloadUrl": "https://raw.githubusercontent.com/wp1u18/COM6244Individual/175bed8c251baedbe9e70760d2b4277a1633b32a/cloud-app-api/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/amantemiguel/serverless-stack-api",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 1,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-04-02T01:08:42Z",
+    "pushedAt": "2020-04-02T01:08:39Z",
+    "createdAt": "2020-03-30T23:03:39Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/amantemiguel/serverless-stack-api/blob/93c0950fa527f6bb1dc011e9489b148d64a6aaeb/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/251448097/contents/serverless.yml?ref=93c0950fa527f6bb1dc011e9489b148d64a6aaeb",
+      "downloadUrl": "https://raw.githubusercontent.com/amantemiguel/serverless-stack-api/93c0950fa527f6bb1dc011e9489b148d64a6aaeb/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/SamMurphyDev/Serverless-Testing",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 9,
+    "language": "HTML",
+    "topics": [],
+    "updatedAt": "2021-01-09T15:14:10Z",
+    "pushedAt": "2022-11-10T13:11:12Z",
+    "createdAt": "2019-05-23T06:46:11Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/SamMurphyDev/Serverless-Testing/blob/249d921c4f3c7ade6c7566a7b6ef721380daad33/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/188177145/contents/serverless.yml?ref=249d921c4f3c7ade6c7566a7b6ef721380daad33",
+      "downloadUrl": "https://raw.githubusercontent.com/SamMurphyDev/Serverless-Testing/249d921c4f3c7ade6c7566a7b6ef721380daad33/serverless.yml",
+      "plugins": [
+        "serverless-pseudo-parameters"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/joncookusa/serverless-todo",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 4,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-05-20T20:02:23Z",
+    "pushedAt": "2022-11-13T05:10:09Z",
+    "createdAt": "2020-05-01T19:14:08Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/joncookusa/serverless-todo/blob/2c4562afd0ad87697ee8f71509bc227b36811368/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/260539118/contents/backend/serverless.yml?ref=2c4562afd0ad87697ee8f71509bc227b36811368",
+      "downloadUrl": "https://raw.githubusercontent.com/joncookusa/serverless-todo/2c4562afd0ad87697ee8f71509bc227b36811368/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/Art3mK/youtube-podcasts",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 35,
+    "language": "Python",
+    "description": "poor's man youtube podcasts on AWS",
+    "topics": [],
+    "updatedAt": "2021-05-06T13:50:21Z",
+    "pushedAt": "2021-05-06T13:50:19Z",
+    "createdAt": "2019-10-21T11:37:35Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/Art3mK/youtube-podcasts/blob/dfd7a835368ab386ff3f927c878bec88732ae18e/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "python3.8",
+      "url": "https://api.github.com/repositories/216553019/contents/serverless.yml?ref=dfd7a835368ab386ff3f927c878bec88732ae18e",
+      "downloadUrl": "https://raw.githubusercontent.com/Art3mK/youtube-podcasts/dfd7a835368ab386ff3f927c878bec88732ae18e/serverless.yml",
+      "plugins": [
+        "serverless-python-requirements",
+        "serverless-step-functions"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/faysal887/aws-cloud-dev",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 7,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-05-28T05:55:53Z",
+    "pushedAt": "2022-11-23T10:30:57Z",
+    "createdAt": "2020-05-28T05:54:24Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/faysal887/aws-cloud-dev/blob/6e633e5f0180d52aed756b7b79197257abdf0947/c5-capstone/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "c5-capstone/backend/serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/267505584/contents/c5-capstone/backend/serverless.yml?ref=6e633e5f0180d52aed756b7b79197257abdf0947",
+      "downloadUrl": "https://raw.githubusercontent.com/faysal887/aws-cloud-dev/6e633e5f0180d52aed756b7b79197257abdf0947/c5-capstone/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-aws-documentation",
+        "serverless-reqvalidator-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/qfeature/equipment-status",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 46,
+    "language": "TypeScript",
+    "description": "A serverless equipment status application",
+    "topics": [],
+    "updatedAt": "2021-11-09T08:24:09Z",
+    "pushedAt": "2021-11-09T08:24:06Z",
+    "createdAt": "2021-10-12T21:11:50Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/qfeature/equipment-status/blob/d9784ceca6892db2d0acf5a0f77a646e4de5becf/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/416499596/contents/backend/serverless.yml?ref=d9784ceca6892db2d0acf5a0f77a646e4de5becf",
+      "downloadUrl": "https://raw.githubusercontent.com/qfeature/equipment-status/d9784ceca6892db2d0acf5a0f77a646e4de5becf/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation",
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/verypossible/pychain",
+    "stargazerCount": 0,
+    "subscribersCount": 43,
+    "contributorsCount": 1,
+    "commitsCount": 33,
+    "language": "Python",
+    "description": "A demo blockchain implementation in Python with a serverless backend",
+    "topics": [],
+    "updatedAt": "2021-07-19T13:50:41Z",
+    "pushedAt": "2021-05-08T16:41:47Z",
+    "createdAt": "2018-02-06T18:47:33Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/verypossible/pychain/blob/fa620ee64838f1e4ddfeb1266d80b2ac21c1ce3b/serverless/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless/serverless.yml",
+      "runtime": "python3.6",
+      "serverlessVersion": ">=1.20.0",
+      "url": "https://api.github.com/repositories/120506916/contents/serverless/serverless.yml?ref=fa620ee64838f1e4ddfeb1266d80b2ac21c1ce3b",
+      "downloadUrl": "https://raw.githubusercontent.com/verypossible/pychain/fa620ee64838f1e4ddfeb1266d80b2ac21c1ce3b/serverless/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/GansukhB/chime-backend",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 0,
+    "commitsCount": 1,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2022-01-05T07:15:25Z",
+    "pushedAt": "2022-01-05T07:15:22Z",
+    "createdAt": "2022-01-05T07:14:03Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/GansukhB/chime-backend/blob/0e843cd20682a877b47a7a9d508c9571a1942734/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "serverlessVersion": "2",
+      "url": "https://api.github.com/repositories/444701618/contents/serverless.yml?ref=0e843cd20682a877b47a7a9d508c9571a1942734",
+      "downloadUrl": "https://raw.githubusercontent.com/GansukhB/chime-backend/0e843cd20682a877b47a7a9d508c9571a1942734/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/christopherarter/DotNetTwitterBot",
+    "stargazerCount": 2,
+    "subscribersCount": 2,
+    "contributorsCount": 0,
+    "commitsCount": 3,
+    "language": "C#",
+    "description": "a /r/wholesomememes twitter bot written in C#",
+    "topics": [],
+    "updatedAt": "2021-05-02T11:00:41Z",
+    "pushedAt": "2022-06-22T22:22:27Z",
+    "createdAt": "2019-12-26T20:58:05Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/christopherarter/DotNetTwitterBot/blob/b18e494874dbb1a27a53a4a703d8a0376968600a/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "dotnetcore2.1",
+      "url": "https://api.github.com/repositories/230327276/contents/serverless.yml?ref=b18e494874dbb1a27a53a4a703d8a0376968600a",
+      "downloadUrl": "https://raw.githubusercontent.com/christopherarter/DotNetTwitterBot/b18e494874dbb1a27a53a4a703d8a0376968600a/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/hariclerry/instagram-clone-serverless-backend",
+    "stargazerCount": 2,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 5,
+    "language": "TypeScript",
+    "description": "Instagram Clone Service is an image sharing Service built using aws serverless lambda.",
+    "topics": [
+      "api-gateway",
+      "aws-dynamodb",
+      "aws-lambda",
+      "aws-s3",
+      "nodejs",
+      "serverless-framework",
+      "typescript"
+    ],
+    "updatedAt": "2022-08-11T07:30:53Z",
+    "pushedAt": "2020-08-22T02:00:09Z",
+    "createdAt": "2020-08-17T21:22:15Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/hariclerry/instagram-clone-serverless-backend/blob/2deabe868eb24f29a9b2a211572c2cf32f375a1b/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/288289040/contents/serverless.yml?ref=2deabe868eb24f29a9b2a211572c2cf32f375a1b",
+      "downloadUrl": "https://raw.githubusercontent.com/hariclerry/instagram-clone-serverless-backend/2deabe868eb24f29a9b2a211572c2cf32f375a1b/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-dynamodb-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/adityawf/big-mouth",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 6,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2018-11-01T10:46:45Z",
+    "pushedAt": "2018-11-01T10:46:44Z",
+    "createdAt": "2018-11-01T07:08:35Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/adityawf/big-mouth/blob/412bee27c38e75fd866d0414a6d25a878f73309c/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/155675865/contents/serverless.yml?ref=412bee27c38e75fd866d0414a6d25a878f73309c",
+      "downloadUrl": "https://raw.githubusercontent.com/adityawf/big-mouth/412bee27c38e75fd866d0414a6d25a878f73309c/serverless.yml",
+      "plugins": [
+        "serverless-pseudo-parameters",
+        "serverless-sam"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/xuzishuo1996/serverless-aws-nodejs",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 42,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2021-12-28T21:53:50Z",
+    "pushedAt": "2021-12-28T21:53:47Z",
+    "createdAt": "2021-12-25T21:09:10Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/xuzishuo1996/serverless-aws-nodejs/blob/35282d1d60df87107cc19724114b9514ad8cd2a5/auction-service/serverless.yml",
+      "name": "serverless.yml",
+      "path": "auction-service/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/441758921/contents/auction-service/serverless.yml?ref=35282d1d60df87107cc19724114b9514ad8cd2a5",
+      "downloadUrl": "https://raw.githubusercontent.com/xuzishuo1996/serverless-aws-nodejs/35282d1d60df87107cc19724114b9514ad8cd2a5/auction-service/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-pseudo-parameters"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/bjvelarde/udacity-capstone",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 0,
+    "commitsCount": 3,
+    "language": "TypeScript",
+    "description": "Udacity Capstone Project",
+    "topics": [],
+    "updatedAt": "2020-01-05T10:56:27Z",
+    "pushedAt": "2022-11-12T23:02:44Z",
+    "createdAt": "2020-01-05T10:46:59Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/bjvelarde/udacity-capstone/blob/ed5e45f8263f6229fb941195b282ceb0f8ab300e/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/231902818/contents/backend/serverless.yml?ref=ed5e45f8263f6229fb941195b282ceb0f8ab300e",
+      "downloadUrl": "https://raw.githubusercontent.com/bjvelarde/udacity-capstone/ed5e45f8263f6229fb941195b282ceb0f8ab300e/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-reqvalidator-plugin",
+        "serverless-aws-documentation",
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/hanmet/serverless-todo",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 3,
+    "language": "TypeScript",
+    "topics": [],
+    "updatedAt": "2020-08-01T20:04:46Z",
+    "pushedAt": "2022-11-13T06:20:57Z",
+    "createdAt": "2020-06-29T16:50:01Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/hanmet/serverless-todo/blob/6c46f8f5e6661a2a76e7b37440ebe8b603262f5b/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/275874317/contents/backend/serverless.yml?ref=6c46f8f5e6661a2a76e7b37440ebe8b603262f5b",
+      "downloadUrl": "https://raw.githubusercontent.com/hanmet/serverless-todo/6c46f8f5e6661a2a76e7b37440ebe8b603262f5b/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function",
+        "serverless-plugin-canary-deployments",
+        "serverless-dynamodb-local",
+        "serverless-offline"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/waterwheel31/serverless-image",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 10,
+    "language": "JavaScript",
+    "description": "An excersice of 'Serverless'. A simple website using Serverless, auth0, AWS etc. ",
+    "topics": [],
+    "updatedAt": "2020-01-16T11:10:17Z",
+    "pushedAt": "2019-12-15T07:44:50Z",
+    "createdAt": "2019-12-05T10:46:29Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/waterwheel31/serverless-image/blob/a0e88c49e12f8d8676d70f75e528a38f8587b4f3/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/226079021/contents/backend/serverless.yml?ref=a0e88c49e12f8d8676d70f75e528a38f8587b4f3",
+      "downloadUrl": "https://raw.githubusercontent.com/waterwheel31/serverless-image/a0e88c49e12f8d8676d70f75e528a38f8587b4f3/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/d-smith/sfs3",
+    "stargazerCount": 1,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 37,
+    "language": "JavaScript",
+    "description": "Step functions using s3 to carry data",
+    "topics": [],
+    "updatedAt": "2020-04-28T16:26:23Z",
+    "pushedAt": "2018-06-21T15:36:31Z",
+    "createdAt": "2018-06-13T18:29:55Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/d-smith/sfs3/blob/b2d219c251a8a047d6e68caf382fda4725ee2685/s3-for-process-data/serverless.yml",
+      "name": "serverless.yml",
+      "path": "s3-for-process-data/serverless.yml",
+      "runtime": "nodejs8.10",
+      "url": "https://api.github.com/repositories/137255412/contents/s3-for-process-data/serverless.yml?ref=b2d219c251a8a047d6e68caf382fda4725ee2685",
+      "downloadUrl": "https://raw.githubusercontent.com/d-smith/sfs3/b2d219c251a8a047d6e68caf382fda4725ee2685/s3-for-process-data/serverless.yml",
+      "plugins": [
+        "serverless-step-functions",
+        "serverless-pseudo-parameters"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/jzoric/cognito-user-manager-backend",
+    "stargazerCount": 3,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 3,
+    "language": "Go",
+    "description": "API to manage AWS Cognito users inside a user pool",
+    "topics": [
+      "aws",
+      "cognito-user-pool",
+      "go",
+      "serverless"
+    ],
+    "updatedAt": "2022-07-25T09:41:21Z",
+    "pushedAt": "2018-07-18T08:13:46Z",
+    "createdAt": "2018-07-12T12:16:47Z",
+    "archived": true,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/jzoric/cognito-user-manager-backend/blob/e685d12b091f244ae000da3c89c67c0a7d517661/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "go1.x",
+      "url": "https://api.github.com/repositories/140709039/contents/serverless.yml?ref=e685d12b091f244ae000da3c89c67c0a7d517661",
+      "downloadUrl": "https://raw.githubusercontent.com/jzoric/cognito-user-manager-backend/e685d12b091f244ae000da3c89c67c0a7d517661/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/HariharanMiracle/serverless-stack-api",
+    "stargazerCount": 1,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 2,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2020-12-09T11:41:43Z",
+    "pushedAt": "2020-10-06T11:05:00Z",
+    "createdAt": "2020-10-04T11:54:52Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/HariharanMiracle/serverless-stack-api/blob/1b665f5a6b914da4822042b83a0d0d9bba2ea5a1/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/301117510/contents/serverless.yml?ref=1b665f5a6b914da4822042b83a0d0d9bba2ea5a1",
+      "downloadUrl": "https://raw.githubusercontent.com/HariharanMiracle/serverless-stack-api/1b665f5a6b914da4822042b83a0d0d9bba2ea5a1/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/danielsan/danielsan-nodejs-sample",
+    "stargazerCount": 0,
+    "subscribersCount": 2,
+    "contributorsCount": 1,
+    "commitsCount": 9,
+    "language": "JavaScript",
+    "topics": [],
+    "updatedAt": "2019-08-05T14:31:51Z",
+    "pushedAt": "2022-09-08T09:11:13Z",
+    "createdAt": "2019-08-05T05:57:41Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/danielsan/danielsan-nodejs-sample/blob/2dc5527e50efcd884e114beafb44e9daa8c4058b/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/200591357/contents/serverless.yml?ref=2dc5527e50efcd884e114beafb44e9daa8c4058b",
+      "downloadUrl": "https://raw.githubusercontent.com/danielsan/danielsan-nodejs-sample/2dc5527e50efcd884e114beafb44e9daa8c4058b/serverless.yml",
+      "plugins": [
+        "serverless-aws-alias",
+        "serverless-plugin-aws-alerts"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/pariveda-serverless/aws-certbot",
+    "stargazerCount": 1,
+    "subscribersCount": 2,
+    "contributorsCount": 3,
+    "commitsCount": 69,
+    "language": "JavaScript",
+    "description": "The aws-certbot Serverless Service",
+    "topics": [],
+    "updatedAt": "2020-05-01T20:12:10Z",
+    "pushedAt": "2022-07-07T19:17:10Z",
+    "createdAt": "2018-03-29T14:31:24Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/pariveda-serverless/aws-certbot/blob/8b06a1578e7ac457a96016ba765ec9e596283a54/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/127303728/contents/serverless.yml?ref=8b06a1578e7ac457a96016ba765ec9e596283a54",
+      "downloadUrl": "https://raw.githubusercontent.com/pariveda-serverless/aws-certbot/8b06a1578e7ac457a96016ba765ec9e596283a54/serverless.yml"
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/aizulhussin/cloud-dev-c4-project",
+    "stargazerCount": 0,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 26,
+    "language": "TypeScript",
+    "description": "udacity nanodegree lesson 4 project",
+    "topics": [],
+    "updatedAt": "2020-03-29T13:58:59Z",
+    "pushedAt": "2022-11-13T03:52:00Z",
+    "createdAt": "2020-03-16T01:40:05Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/aizulhussin/cloud-dev-c4-project/blob/4a66675623bfe3afd4c01c4c629780d308349121/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "runtime": "nodejs12.x",
+      "url": "https://api.github.com/repositories/247585126/contents/backend/serverless.yml?ref=4a66675623bfe3afd4c01c4c629780d308349121",
+      "downloadUrl": "https://raw.githubusercontent.com/aizulhussin/cloud-dev-c4-project/4a66675623bfe3afd4c01c4c629780d308349121/backend/serverless.yml",
+      "plugins": [
+        "serverless-webpack",
+        "serverless-iam-roles-per-function"
+      ]
+    }
+  },
+  {
+    "apiUrl": "https://api.github.com/repos/alokkulkarni/notes-app-api",
+    "stargazerCount": 1,
+    "subscribersCount": 1,
+    "contributorsCount": 1,
+    "commitsCount": 5,
+    "language": "JavaScript",
+    "description": "lambda base cognito integration",
+    "topics": [],
+    "updatedAt": "2020-05-28T11:38:13Z",
+    "pushedAt": "2022-11-13T05:29:10Z",
+    "createdAt": "2020-05-05T10:49:35Z",
+    "archived": false,
+    "disabled": false,
+    "serverlessFileInfo": {
+      "htmlUrl": "https://github.com/alokkulkarni/notes-app-api/blob/f1010956b1c644134e68d1b267398ac66df8d0cd/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "runtime": "nodejs10.x",
+      "url": "https://api.github.com/repositories/261432807/contents/serverless.yml?ref=f1010956b1c644134e68d1b267398ac66df8d0cd",
+      "downloadUrl": "https://raw.githubusercontent.com/alokkulkarni/notes-app-api/f1010956b1c644134e68d1b267398ac66df8d0cd/serverless.yml",
+      "plugins": [
+        "serverless-bundle",
+        "serverless-offline",
+        "serverless-dotenv-plugin"
+      ]
+    }
+  }
+]

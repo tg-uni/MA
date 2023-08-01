@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/YangLu89/big-mouth"
+      },
+      "html_url": "https://github.com/YangLu89/big-mouth/blob/c615378a8d83ecffaff3e163b2f927ed1c7f2f1a/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/215216569/contents/serverless.yml?ref\u003dc615378a8d83ecffaff3e163b2f927ed1c7f2f1a"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/Allen-Foo/project-server"
+      },
+      "html_url": "https://github.com/Allen-Foo/project-server/blob/7dd22d116f18eae393fefe6390bbd088d5a00a94/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/145829040/contents/serverless.yml?ref\u003d7dd22d116f18eae393fefe6390bbd088d5a00a94"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/celcoder/lambdaTutorial"
+      },
+      "html_url": "https://github.com/celcoder/lambdaTutorial/blob/98505d6e854526fe672510cb3901bee9cab6d2b8/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/159768918/contents/serverless.yml?ref\u003d98505d6e854526fe672510cb3901bee9cab6d2b8"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/klappy/cryptocurrency-sentiment"
+      },
+      "html_url": "https://github.com/klappy/cryptocurrency-sentiment/blob/2d5f0c0d3771160c1b5973ad42d867b2717e7c05/serverless/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless/serverless.yml",
+      "url": "https://api.github.com/repositories/155126484/contents/serverless/serverless.yml?ref\u003d2d5f0c0d3771160c1b5973ad42d867b2717e7c05"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/erezrokah/serverless-monitoring-app"
+      },
+      "html_url": "https://github.com/erezrokah/serverless-monitoring-app/blob/f4beb70ca7e7d423e3e73123e9efb8c47838e79a/services/monitoring-tester-service/serverless.yml",
+      "name": "serverless.yml",
+      "path": "services/monitoring-tester-service/serverless.yml",
+      "url": "https://api.github.com/repositories/171113357/contents/services/monitoring-tester-service/serverless.yml?ref\u003df4beb70ca7e7d423e3e73123e9efb8c47838e79a"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/everymundo-labs/aws-lambda-function-nodejs-template"
+      },
+      "html_url": "https://github.com/everymundo-labs/aws-lambda-function-nodejs-template/blob/c8f761c2e897bf4e2a18dea3b1c0e198bf59070a/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/200549598/contents/serverless.yml?ref\u003dc8f761c2e897bf4e2a18dea3b1c0e198bf59070a"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/KaiWeing/big-mouth"
+      },
+      "html_url": "https://github.com/KaiWeing/big-mouth/blob/0b120104d639615299ac6b3f124b74b0967b0d71/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/131767230/contents/serverless.yml?ref\u003d0b120104d639615299ac6b3f124b74b0967b0d71"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/fecaps-org/financial-control-api"
+      },
+      "html_url": "https://github.com/fecaps-org/financial-control-api/blob/e1848faef2ec9e2c3fffa0e196f3c3c7b78b9c26/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/167818708/contents/serverless.yml?ref\u003de1848faef2ec9e2c3fffa0e196f3c3c7b78b9c26"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/tikalk/ants-score-service-fanout"
+      },
+      "html_url": "https://github.com/tikalk/ants-score-service-fanout/blob/42b83ab6e1bde8aa70853c14549007d677505658/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/122395638/contents/serverless.yml?ref\u003d42b83ab6e1bde8aa70853c14549007d677505658"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/jaypeng2015/decision-maker"
+      },
+      "html_url": "https://github.com/jaypeng2015/decision-maker/blob/03ccfadf749eef4f60fc9eed908019acd97012ea/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/96972627/contents/serverless.yml?ref\u003d03ccfadf749eef4f60fc9eed908019acd97012ea"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/rajulapatis/aws-developer-final-project"
+      },
+      "html_url": "https://github.com/rajulapatis/aws-developer-final-project/blob/728ed8f8991fe065325faa7398758ca008d8fc36/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "url": "https://api.github.com/repositories/453559202/contents/backend/serverless.yml?ref\u003d728ed8f8991fe065325faa7398758ca008d8fc36"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/livle-dev/livle-server"
+      },
+      "html_url": "https://github.com/livle-dev/livle-server/blob/9f6b55410bcbcc61960f78a096d35784f253a12f/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/106525546/contents/serverless.yml?ref\u003d9f6b55410bcbcc61960f78a096d35784f253a12f"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/iamvaibhav/lambda-step-functions-serverless-example"
+      },
+      "html_url": "https://github.com/iamvaibhav/lambda-step-functions-serverless-example/blob/a5ae359c97104d5c5016ea488d3b48785958f225/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/463316942/contents/serverless.yml?ref\u003da5ae359c97104d5c5016ea488d3b48785958f225"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/jagardner21/udacity-capstone"
+      },
+      "html_url": "https://github.com/jagardner21/udacity-capstone/blob/c93b4c6a43ee766eb3b1ac6b25690bb5805fd811/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "url": "https://api.github.com/repositories/434745525/contents/backend/serverless.yml?ref\u003dc93b4c6a43ee766eb3b1ac6b25690bb5805fd811"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/dng3hc/aws-clouddeveloper-course-04"
+      },
+      "html_url": "https://github.com/dng3hc/aws-clouddeveloper-course-04/blob/02947b89209d19e75c7f628d153cb1b04b056313/backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "backend/serverless.yml",
+      "url": "https://api.github.com/repositories/558808846/contents/backend/serverless.yml?ref\u003d02947b89209d19e75c7f628d153cb1b04b056313"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/jetbridge/sls-flask"
+      },
+      "html_url": "https://github.com/jetbridge/sls-flask/blob/28e9a7e3c33e2fcbe14cc909c4f9cea8e44dfd16/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/175660119/contents/serverless.yml?ref\u003d28e9a7e3c33e2fcbe14cc909c4f9cea8e44dfd16"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/favetelinguis/serverlessinmotion"
+      },
+      "html_url": "https://github.com/favetelinguis/serverlessinmotion/blob/c84d7ab1cd3ca878556c54d788eee35111cb6350/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/160170421/contents/serverless.yml?ref\u003dc84d7ab1cd3ca878556c54d788eee35111cb6350"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/microservices-training/food2go"
+      },
+      "html_url": "https://github.com/microservices-training/food2go/blob/0c39b2952043f9ff26f618ff9e0e1f9649da5442/ftgo-restaurant-service-aws-lambda/serverless.yml",
+      "name": "serverless.yml",
+      "path": "ftgo-restaurant-service-aws-lambda/serverless.yml",
+      "url": "https://api.github.com/repositories/152219646/contents/ftgo-restaurant-service-aws-lambda/serverless.yml?ref\u003d0c39b2952043f9ff26f618ff9e0e1f9649da5442"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/psech/website-flexcareers"
+      },
+      "html_url": "https://github.com/psech/website-flexcareers/blob/4102b928784865526cfe0bba86e70410583e1f18/serverless-static-website/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless-static-website/serverless.yml",
+      "url": "https://api.github.com/repositories/280591580/contents/serverless-static-website/serverless.yml?ref\u003d4102b928784865526cfe0bba86e70410583e1f18"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/UdittLamba/ReplicantOld"
+      },
+      "html_url": "https://github.com/UdittLamba/ReplicantOld/blob/2ec7e7ff5dd66d2ed002da902854fa37d7dbf779/replicant-backend/serverless.yml",
+      "name": "serverless.yml",
+      "path": "replicant-backend/serverless.yml",
+      "url": "https://api.github.com/repositories/291643440/contents/replicant-backend/serverless.yml?ref\u003d2ec7e7ff5dd66d2ed002da902854fa37d7dbf779"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/juliangarcia1/demo_serverless"
+      },
+      "html_url": "https://github.com/juliangarcia1/demo_serverless/blob/c88d9c41cc777be472fdcad4ae363ece8f88911a/ottmsc/serverless.yml",
+      "name": "serverless.yml",
+      "path": "ottmsc/serverless.yml",
+      "url": "https://api.github.com/repositories/160856310/contents/ottmsc/serverless.yml?ref\u003dc88d9c41cc777be472fdcad4ae363ece8f88911a"
+    },
+    {
+      "repository": {
+        "url": "https://api.github.com/repos/mroest/garmin-connect-api"
+      },
+      "html_url": "https://github.com/mroest/garmin-connect-api/blob/f0bf62a578acc46c486367c27959c2fda3e4865a/serverless.yml",
+      "name": "serverless.yml",
+      "path": "serverless.yml",
+      "url": "https://api.github.com/repositories/170397473/contents/serverless.yml?ref\u003df0bf62a578acc46c486367c27959c2fda3e4865a"
+    }
+  ],
+  "total_count": 56663,
+  "incomplete_results": false
+}
